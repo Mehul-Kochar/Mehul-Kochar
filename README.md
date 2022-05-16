@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Mehul-Kochar
+- 👀 I’m interested in Web-Development.
+- 🌱 I’m currently learning HTML/CSS/JavaScript
